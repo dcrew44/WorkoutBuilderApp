@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">WorkoutBuilderApp</string>
+    <string name="pushups">Pushups</string>
+    <string name="split_squats">Split squats</string>
+    <string name="kettlebell_deadlift">Kettlebell Deadlift</string>
+    <string name="arm_lifts">Arm lifts</string>
+    <string name="sit_ups">Sit ups</string>
+    <string-array name="exercise_array">
+        <item>@string/pushups</item>
+        <item>@string/split_squats</item>
+        <item>@string/kettlebell_deadlift</item>
+        <item>@string/arm_lifts</item>
+        <item>@string/sit_ups</item>
+    </string-array>
+</resources>
